@@ -2,12 +2,9 @@
 % TSEITIN TRANSFORMATION %
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% HOW IT WORKS...
-%
-%
-%
-%
-%
+% TODOs, etc:
+% Improve tseitin's encoding (as in 'decision procedures', for example)
+% Do more testing
 % Basically no preprocessing on the clause list is done. It simplifies repeated literals in a clause.
 
 :- use_module(library(apply)).
